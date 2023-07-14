@@ -4,4 +4,3 @@ test-2
 cherry-pick
 test-B
 test-C
-test-D
